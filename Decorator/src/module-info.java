@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author arakawaryouta
+ *
+ */
+module Decorator {
+}
